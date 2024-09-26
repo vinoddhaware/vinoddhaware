@@ -15,7 +15,7 @@ Technology is constantly evolving, and I believe in staying up-to-date with the 
 <hr>
 <h2>🔗 Connect with Me</h2>
 <hr>
-Feel free to reach out if you'd like to collaborate, discuss web development, I would be delighted to connect with you! 🤝
+Feel free to reach out if you'd like to collaborate, discuss web development, I would be delighted to connect with you! 🤝 <br>
 LinkedIn Twitter Portfolio Instagram
 
 <!---
