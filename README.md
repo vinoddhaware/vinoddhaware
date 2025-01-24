@@ -1,5 +1,5 @@
 <h1> 👋Hi, I’m Vinod Dhaware  </h1>
-I'm a passionate Full Stack Web Developer with expertise in MERN stack. From crafting engaging user interfaces to building robust backends, I enjoy bringing ideas to life in the digital world. With a blend of creativity and problem-solving skills, I strive to deliver exceptional web experiences.
+I'm a passionate Full Stack Web Developer with expertise in React js. From crafting engaging user interfaces to building robust backends, I enjoy bringing ideas to life in the digital world. With a blend of creativity and problem-solving skills, I strive to deliver exceptional web experiences.
 <hr>
 <h2>🚀 My Expertise</h2>
 Frontend Development: I excel in creating responsive and dynamic web applications using HTML, CSS, JavaScript, and ReactJS. I'm a fan of clean code, intuitive user interfaces, and smooth user experiences.
